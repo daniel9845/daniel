@@ -1,0 +1,9 @@
+bin
+c.txt
+include
+Makefile
+NO6
+NO7
+src
+task
+tmp
